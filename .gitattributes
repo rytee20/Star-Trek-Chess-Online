@@ -1,0 +1,2 @@
+. filter=lfs diff=lfs merge=lfs -text
+Assets/Scenes/OurChessModel2.fbx filter=lfs diff=lfs merge=lfs -text
