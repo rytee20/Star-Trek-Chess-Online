@@ -12,11 +12,13 @@
 
 ![STARTRACK-CHESS-ONLINE-3](https://github.com/rytee20/Star-Trek-Chess-Online/blob/main/Presentation/STARTRACK-CHESS-ONLINE-3.png?raw=true)
 
-Правила лежат [здесь](https://github.com/rytee20/Star-Trek-Chess-Online/blob/main/Presentation/Правила.docx).
+Фигурки для игры аналогичные фигуркам из сериалов сделал [Дмитрий Панфилов](https://github.com/panda21127)
 
 ![STARTRACK-CHESS-ONLINE-6](https://github.com/rytee20/Star-Trek-Chess-Online/blob/main/Presentation/STARTRACK-CHESS-ONLINE-6.png?raw=true)
 
 ![гифка-шахмат](https://github.com/rytee20/Star-Trek-Chess-Online/blob/main/Presentation/гифка%20шахмат.gif?raw=true)
+
+Правила лежат [здесь](https://github.com/rytee20/Star-Trek-Chess-Online/blob/main/Presentation/Правила.docx).
 
 ![STARTRACK-CHESS-ONLINE-10](https://github.com/rytee20/Star-Trek-Chess-Online/blob/main/Presentation/STARTRACK-CHESS-ONLINE-10.png?raw=true)
 
