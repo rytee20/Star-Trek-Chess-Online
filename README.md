@@ -1,5 +1,7 @@
 # Star-Trek-Chess-Online
 
+Трехмерные шахматы из стартрека, написанные на движке Unity в рамках учебного проекта. Вторая часть прокта, сайт, лежит [!здесь](https://github.com/Hiddenviki/starChessOnline/tree/main)
+
 ![STARTRACK-CHESS-ONLINE-1](https://github.com/rytee20/Star-Trek-Chess-Online/blob/main/Presentation/STARTRACK-CHESS-ONLINE-1.png?raw=true)
 
 ![STARTRACK-CHESS-ONLINE-2](https://github.com/rytee20/Star-Trek-Chess-Online/blob/main/Presentation/STARTRACK-CHESS-ONLINE-2.png?raw=true)
