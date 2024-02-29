@@ -28,4 +28,6 @@
 
 ![Интерфейс](https://github.com/rytee20/Star-Trek-Chess-Online/blob/main/Presentation/Интерфейс.gif?raw=true)
 
+Также мы дали детям поиграть в трехмерные шахматы, они остались довольны!
+
 ![STARTRACK-CHESS-ONLINE-14](https://github.com/rytee20/Star-Trek-Chess-Online/blob/main/Presentation/STARTRACK-CHESS-ONLINE-14.png?raw=true)
