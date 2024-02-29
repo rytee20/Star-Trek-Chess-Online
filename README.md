@@ -1,4 +1,5 @@
 # Star-Trek-Chess-Online
+
 ![STARTRACK-CHESS-ONLINE-1](https://github.com/rytee20/Star-Trek-Chess-Online/blob/main/Presentation/STARTRACK-CHESS-ONLINE-1.png?raw=true)
 
 ![STARTRACK-CHESS-ONLINE-2](https://github.com/rytee20/Star-Trek-Chess-Online/blob/main/Presentation/STARTRACK-CHESS-ONLINE-2.png?raw=true)
@@ -16,6 +17,8 @@
 ![STARTRACK-CHESS-ONLINE-8](https://github.com/rytee20/Star-Trek-Chess-Online/blob/main/Presentation/STARTRACK-CHESS-ONLINE-8.png?raw=true)
 
 ![STARTRACK-CHESS-ONLINE-10](https://github.com/rytee20/Star-Trek-Chess-Online/blob/main/Presentation/STARTRACK-CHESS-ONLINE-10.png?raw=true)
+
+![STARTRACK-CHESS-ONLINE-11](https://github.com/rytee20/Star-Trek-Chess-Online/blob/main/Presentation/STARTRACK-CHESS-ONLINE-11.png?raw=true)
 
 ![Интерфейс](https://github.com/rytee20/Star-Trek-Chess-Online/blob/main/Presentation/Интерфейс.gif?raw=true)
 
