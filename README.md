@@ -8,7 +8,7 @@
 
 ![STARTRACK-CHESS-ONLINE-2](https://github.com/rytee20/Star-Trek-Chess-Online/blob/main/Presentation/STARTRACK-CHESS-ONLINE-2.png?raw=true)
 
-Мы перевели правила, разделили роли в команде и приступили к реализации логики игры и сайта. Сайтом занимались Веселкова Виктория и Уланов Максим, игрой -- Афонина Екатерина и Никаноров Всеволод.
+Мы перевели правила, разделили роли в команде и приступили к реализации логики игры и сайта. Сайтом занимались [Веселкова Виктория](https://github.com/Hiddenviki) и [Уланов Максим](https://github.com/Mak71M), игрой - [Афонина Екатерина](https://github.com/rytee20) и [Никаноров Всеволод](https://github.com/NikanorovVD).
 
 ![STARTRACK-CHESS-ONLINE-3](https://github.com/rytee20/Star-Trek-Chess-Online/blob/main/Presentation/STARTRACK-CHESS-ONLINE-3.png?raw=true)
 
